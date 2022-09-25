@@ -8,8 +8,7 @@ A crack of a shitty paid Spoofer
 ```
 ## How to use the src
 ```
-Learn to code ;D [ For help : https://www.learncpp.com/ ]
-Don't be a skid , be A Coder
+Its no source code just the file where its downloading all stuff lmao
 ```
 ## Can you help me ?
 ```
