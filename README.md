@@ -12,7 +12,7 @@ Its no source code just the file where its downloading all stuff lmao
 ```
 ## Can you help me ?
 ```
-There is no Support for this source sry but i don't have time for that
+There is no Support for this post sry but i don't have time for that
 But if you like this source how about you give me a star :D
 ```
 ## Contact
