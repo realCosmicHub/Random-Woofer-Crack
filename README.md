@@ -1,4 +1,4 @@
-# Nerves.gg Spoofer Crack
+# Random Spoofer Crack
 A crack of a shitty paid Spoofer 
 
 ## How to use the crack
